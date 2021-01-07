@@ -1,0 +1,3 @@
+<?php
+$CompanyTitle = 'Chirag & Company';
+?>
