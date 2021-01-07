@@ -14,6 +14,7 @@ if(isset($_SESSION['user']) == TRUE)
                             <h3 class="m-b-xs">Dashborad</h3>
                             <small>
                                 Special minimal admin theme with Dark UI style for monitoring or administration web applications.
+                                Git Code
                             </small>
                         </div>
                     </div>
